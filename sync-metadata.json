@@ -1,0 +1,12 @@
+{
+  "organization": {
+    "id": 1,
+    "name": "Security-Labz",
+    "url": "https://github.com/Security-Labz"
+  },
+  "sync": {
+    "created": "2025-05-08T17:16:10.507Z",
+    "platform": "Security-Analyzer",
+    "version": "1.0.0"
+  }
+}
